@@ -9,9 +9,9 @@ All of the children line-up in order from shortest to tallest, then they form a 
 
 Since it is her birthday, Glados gets to choose where she stands in the circle. Where should Glados stand to make sure she gets the cake?
 
-Your Task
+The Task
 
-a)	Write a Java program with a main(…) method that solves the above problem for Glados, writing the answer to stdout. Your code must support writing to an OutputStream, and be callable by other code. The output must appear formatted as follows (sample only):
+a) Write a Java program with a main(…) method that solves the above problem for Glados, writing the answer to stdout. Your code must support writing to an OutputStream, and be callable by other code. The output must appear formatted as follows (sample only):
 
 Position     3: Winner!
 

@@ -15,9 +15,7 @@ a) Write a Java program with a main(…) method that solves the above problem fo
 
 Position     3: Winner!
 
-b)	Modify your program to take two command line input arguments, the number of children and the age of Glados to solve the problem in general.
-
-c)	Modify your program to output the order in which children go out in addition to writing the answer. The new output must appear formatted as follows (sample only):
+b)	Modify your program to output the order in which children go out in addition to writing the answer. The new output must appear formatted as follows (sample only):
 
 Position     9: Is out.
 Position    18: Is out.

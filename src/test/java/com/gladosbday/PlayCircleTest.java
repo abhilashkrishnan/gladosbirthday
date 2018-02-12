@@ -32,7 +32,7 @@ public class PlayCircleTest {
 		int age = 3;
 		
 		pc.formCircle(children);
-		pc.removeChild(age);
+		pc.removeChildren(age);
 		int pos = pc.getPosition();
 		pc.printPosition(pos);
 		pc.printToOutputStream(pos);
@@ -50,7 +50,7 @@ public class PlayCircleTest {
 		int age = 9;
 		
 		pc.formCircle(children);
-		pc.removeChild(age);
+		pc.removeChildren(age);
 		int pos = pc.getPosition();
 		assertEquals(21, pos);
 		pc.printPosition(pos);
@@ -69,7 +69,7 @@ public class PlayCircleTest {
 		int age = 17;
 		
 		pc.formCircle(children);
-		pc.removeChild(age);
+		pc.removeChildren(age);
 		int pos = pc.getPosition();
 		pc.printPosition(pos);
 		pc.printToOutputStream(pos);

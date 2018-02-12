@@ -13,7 +13,7 @@ public class EatCake {
 		
 		PlayCircle pc = new PlayCircle();
 		pc.formCircle(children);
-		pc.removeChild(age);
+		pc.removeChildren(age);
 		int pos = pc.getPosition();
 		pc.printPosition(pos);
 		pc.printToOutputStream(pos);

@@ -28,7 +28,7 @@ public class PlayCircle {
 		}
 		size++;
 	}
-	public void removeChild(int place) {
+	public void removeChildren(int place) {
 		Child c = shortest;
 		int idx = 1;
 		
